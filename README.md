@@ -83,8 +83,8 @@ Using npm:
 
 ```bash
 npm start
+```
+## 🔗 Live Project
 
-
-🔗 Live Project
 You can view the live version of this project here:
 👉 https://investing-website-zeta.vercel.app/
