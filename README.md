@@ -8,6 +8,7 @@ Empowering Smarter Investments Through Innovation and Insight
 
 ## Built with the tools and technologies:
 
+[![Vercel](https://vercelbadge.vercel.app/api/ssupshub/Investing-Website)](https://investing-website-zeta.vercel.app/)
 ![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Autoprefixer](https://img.shields.io/badge/Autoprefixer-CC3333?style=for-the-badge&logo=Autoprefixer&logoColor=white)
